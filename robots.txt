@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://okoveoco.github.io/GHk/sitemap_index.txt
+Sitemap: https://okoveoco.github.io/Nhu/sitemap_index.txt
+Sitemap: https://okoveoco.github.io/fHE/sitemap_index.txt
+Sitemap: https://okoveoco.github.io/isL/sitemap_index.txt
